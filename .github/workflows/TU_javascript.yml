@@ -1,4 +1,4 @@
-name: Tests unitaire Javascript
+name: Tests unitaires Javascript
 on:
   push:
     branches:
